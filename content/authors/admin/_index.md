@@ -1,34 +1,34 @@
 ---
 # Display name
-title: Анастасия Макарова
+title: Anastasia Makarova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Студент и просто прекрасный человек)
+role: Student and just a wonderful person)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мой сайт посвящен мне любимой.
+bio: Мy site is dedicated to me.
 
 # Interests to show in About widget
 interests:
-  - Прикладная информатика
-  - Коллекционирование
-  - Самосовершенствование и продвижение к осознанности
+   - Applied Informatics
+   - Collecting
+   - Self-improvement and progress towards awareness
 
 # Education to show in About widget
 education:
   courses:
-    - средняя школа с углублённым изучением отдельных предметов
-      год: 2020
-    - бакалавриат РУДН, прикладная математика и информатика
-      год: 2021
+    - secondary school with in-depth study of individual subjects
+      year: 2020
+    - RUDN Bachelor, Applied Mathematics and Informatics
+      year: 2025
     
 
 # Social/Academic Networking
@@ -66,5 +66,4 @@ email: ''
 highlight_name: true
 ---
 
-Я прошла довольно сложный путь за последние 2 года: перепоступление в университет, первая работа и знакомство с новыми дорогими для меня людьми; чтобы в итоге прийти к тому, что я делаю сейчас, а именно: учусь на выбранном мною направлении, делаю свой первый в жизни сайт, чтобы в дальнейшем создавать что-то гораздо более масштабное и полезное. 
-
+I have gone through a rather difficult path over the past 2 years: re-entering the university, my first job and meeting new people dear to me; in order to eventually come to what I am doing now, namely: I am studying in the direction I have chosen, making my first website in my life, in order to create something much more ambitious and useful in the future.
