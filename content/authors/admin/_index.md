@@ -25,9 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - secondary school with in depth study of individual subjects
-      year: 2020
-    - RUDN Bachelor, Applied Mathematics and Informatics
+    - course: Bachelor, Applied Mathematics and Informatics
+      institution: RUDN
       year: 2025
     
 
