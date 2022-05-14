@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Director of the hall
-    company: Restaurant business
+  - title: Pupil
+    company: School
     company_url: ''
     company_logo: org-GC
-    location: Moscow
-    date_start: '2021-01-01'
-    date_end: '2021-03-01'
-    description: Meeting restaurant guests, accounting of guests, maintaining documentation and receiving calls.
+    location: Kirov
+    date_start: '2009-01-09'
+    date_end: '2020-01-06'
+    description: Study well and prepare for the unified state exam.
 
-  - title: Department administrator
-    company: Fuel industry
-    company_url: ''
+  - title: Student
+    company: RUDN University
+    company_url: 'https://www.rudn.ru'
     company_logo: org-X
     location: Moscow
-    date_start: '2021-04-01'
-    date_end: '2021-05-31'
-    description: Providing work on effective and cultural service to visitors, creating comfortable conditions for them.
+    date_start: '2021-01-09'
+    date_end: '2025-06-30'
+    description: Applied mathematics and computer science
 
 design:
   columns: '2'

@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: My hobby and useful skill
-    icon: photo-film
-    icon_pack: fab
+    icon: ":film_strip:"
+    icon_pack: emoji
     name: Montage
   - description: Learning foreign languages is easy for me
-    icon: language
-    icon_pack: f1ab
+    icon: ":ab:"
+    icon_pack: emoji
     name: Polyglot
   - description: A skill for my future profession
-    icon: laptop-code
-    icon_pack: f5fc
+    icon: ":technologist:"
+    icon_pack: emoji
     name: Developer
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
