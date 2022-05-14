@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Director of the hall
+    company: Restaurant business
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: org-RB
+    location: Moscow
     date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    date_end: '2021-03-01'
+    description: Meeting restaurant guests, accounting of guests, maintaining documentation and receiving calls.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Department administrator
+    company: Fuel industry
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-FI
+    location: Moscow
+    date_start: '2021-04-01'
+    date_end: '2021-05-31'
+    description: Providing work on effective and cultural service to visitors, creating comfortable conditions for them.
 
 design:
   columns: '2'
