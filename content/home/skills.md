@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 80%
-    icon: circle-video
+  - description: My hobby and useful skill
+    icon: photo-film
     icon_pack: fab
     name: Montage
-  - description: 100%
+  - description: Learning foreign languages is easy for me
     icon: language
-    icon_pack: fab
+    icon_pack: f1ab
     name: Polyglot
-  - description: 50%
+  - description: A skill for my future profession
     icon: laptop-code
-    icon_pack: fab
+    icon_pack: f5fc
     name: Developer
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
