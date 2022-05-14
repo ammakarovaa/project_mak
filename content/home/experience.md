@@ -25,7 +25,7 @@ experience:
   - title: Director of the hall
     company: Restaurant business
     company_url: ''
-    company_logo: org-RB
+    company_logo: org-GC
     location: Moscow
     date_start: '2021-01-01'
     date_end: '2021-03-01'
@@ -34,7 +34,7 @@ experience:
   - title: Department administrator
     company: Fuel industry
     company_url: ''
-    company_logo: org-FI
+    company_logo: org-X
     location: Moscow
     date_start: '2021-04-01'
     date_end: '2021-05-31'
