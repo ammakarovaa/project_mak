@@ -25,7 +25,7 @@ experience:
   - title: Pupil
     company: School
     company_url: ''
-    company_logo: org-GC
+    company_logo: org-gc
     location: Kirov
     date_start: '2009-01-09'
     date_end: '2020-01-06'
@@ -34,7 +34,7 @@ experience:
   - title: Student
     company: RUDN University
     company_url: 'https://www.rudn.ru'
-    company_logo: org-X
+    company_logo: org-x
     location: Moscow
     date_start: '2021-01-09'
     date_end: '2025-06-30'
