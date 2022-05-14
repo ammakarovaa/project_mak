@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Blog"
+title: "The first post about the past week"
 subtitle: "Beginning of May"
 summary: ""
 authors: [Anastasia]
