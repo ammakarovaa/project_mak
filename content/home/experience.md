@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Kirov
-    date_start: '2009-01-09'
-    date_end: '2020-01-06'
+    date_start: '2009-09-01'
+    date_end: '2020-05-30'
     description: Study well and prepare for the unified state exam.
 
   - title: Student
@@ -36,9 +36,9 @@ experience:
     company_url: 'https://www.rudn.ru'
     company_logo: org-x
     location: Moscow
-    date_start: '2021-01-09'
-    date_end: '2025-06-30'
-    description: Applied mathematics and computer science
+    date_start: '2021-09-01'
+    date_end: '2025-07-30'
+    description: Applied mathematics and computer science.
 
 design:
   columns: '2'
