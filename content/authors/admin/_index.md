@@ -42,7 +42,7 @@ social:
     icon_pack: ai
     link: https://elibrary.ru/
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: google-scholar
     link: https://scholar.google.com/
   - icon: orcid
     icon_pack: ai
