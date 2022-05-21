@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Post6"
+title: "Creating presentations"
 subtitle: ""
 summary: ""
 authors: []
