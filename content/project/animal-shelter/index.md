@@ -4,7 +4,8 @@
 title: "Animal Shelter"
 summary: ""
 authors: [Ivan and Anastasia]
-tags: [helping animals]
+tags:
+  - Helping animals
 categories: []
 date: 2022-05-28T16:44:57+03:00
 
