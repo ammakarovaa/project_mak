@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Animal Shelter""
+title: "Animal Shelter"
 summary: "How and why we started helping the animal shelter"
 authors: [Ivan and Anastasia]
 tags:
@@ -16,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Our logo
-  focal_point: Smart
+  caption: "Our logo"
+  focal_point: ""
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
